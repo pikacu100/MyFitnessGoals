@@ -1,5 +1,7 @@
 # MyFitnessGoals
 
+*keep in mind, app it still in beta testing, some things might not work as they should*
+
 **MyFitnessGoals** is a modern fitness app designed to help you achieve your personal health and fitness goals — whether you're looking to build muscle, lose weight, or simply stay active.
 
 ## ✨ Features
